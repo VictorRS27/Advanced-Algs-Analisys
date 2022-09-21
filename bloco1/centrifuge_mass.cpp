@@ -1,5 +1,5 @@
 /*
- * Victor Rofrigues da Silva  NUSP: 12566140
+ * Victor Rodrigues da Silva  NUSP: 12566140
  *
  * Imbalance
  *  */
