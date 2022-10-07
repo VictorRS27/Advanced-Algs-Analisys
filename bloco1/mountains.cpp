@@ -1,9 +1,8 @@
 /*
  * Victor Rofrigues da Silva  NUSP: 12566140
  *
- * Backtraking based in queens problem
+ * jump mountains 1 or 2 at once, find best way
  *
- * Optimized but c++ offensive.
  *  */
 #include <cstring>
 #include <iostream>
