@@ -1,7 +1,7 @@
 /*
- * Victor Rofrigues da Silva  NUSP: 12566140
+ * Victor Rodrigues da Silva  NUSP: 12566140
  *
- * count voluntiers for projects, discarting double candidates
+ * show what register will show result next based on its frequency
  *
  *  */
 
